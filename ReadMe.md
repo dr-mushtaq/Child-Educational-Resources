@@ -147,7 +147,55 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 ## 👁️ Chapter2: - **Important Website**
 | Title/link| Description | Code |
 |---|---|---|
-|[**✅1- learngood**](https://www.learngood.com/#/youtube-series/Andrej%20Karpathy%20-%20Large%20Language%20Models%20for%20the%20General%20Audience)|It is Videos and github|---|
+|[**✅1- Scratch**](https://scratch.mit.edu/)|MIT's kids' coding platform|---|
+|[**✅2- Code.org**](https://code.org/)|Coding lessons from scratch|---|
+|[**✅3- Blockly Games**](https://blockly.games/)|Coding games with blocks|---|
+|[**✅4- CodeCombat**](https://codecombat.com/)|Writing code by playing games|---|
+|[**✅5- Microsoft MakeCode**](https://makecode.microsoft.com/)|Microsoft's kids' coding tool|---|
+|[**✅6- Hour of Code**](https://hourofcode.com/)|One-hour coding activities|---|
+|[**✅7- ABCya**](https://www.abcya.com/)|Age-appropriate educational games|---|
+|[**✅8- Starfall**](https://www.starfall.com/)|Reading and letter instruction|---|
+|[**✅9- PBS Kids**](https://pbskids.org/)|Educational cartoons and games|---|
+|[**✅10- Sesame Street**](https://www.sesamestreet.org/)|Sesame Street educational archive|---|
+|[**✅11- TRT Çocuk**](https://www.trtcocuk.net.tr/)|TRT's children's content archive|---|
+|[**✅12- TÜBİTAK Bilim Genç**](https://bilimgenc.tubitak.gov.tr/)|TÜBİTAK's children's science magazine|---|
+|[**✅13- National Geographic Kids**](https://kids.nationalgeographic.com/)|Nature and animal content|---|
+|[**✅14- Smithsonian Kids**](https://si.edu/kids)|Smithsonian kids' resources|---|
+|[**✅15- Britannica Kids**](https://kids.britannica.com/)|Encyclopedia for children|---|
+|[**✅16- DK Find Out!**](https://www.dkfindout.com/)|Visual knowledge encyclopedia|---|
+|[**✅17- Ducksters**](https://www.ducksters.com/)|Homework and topic explanation archive|---|
+|[**✅18- Wonderopolis**](https://wonderopolis.org/)|Question of the day to spark curiosity|---|
+|[**✅19- Science Buddies**](https://www.sciencebuddies.org/)|Home experiment and project guide|---|
+|[**✅20- PhET Simulations**](https://phet.colorado.edu/)|Physics and chemistry simulations|---|
+|[**✅21- NASA Space Place**](https://spaceplace.nasa.gov/)|NASA's kids' page|---|
+|[**✅22- NASA Climate Kids**](https://climatekids.nasa.gov/)|Climate and earth science|---|
+|[**✅23- ESA Kids**](https://www.esa.int/kids)|European Space Agency kids' section|---|
+|[**✅24- Exploratorium**](https://www.exploratorium.edu/)|Museum experiments and activities|---|
+|[**✅25- Mystery Science**](https://mysteryscience.com/)|Ready-made science lesson plans|---|
+|[**✅26- Generation Genius**](https://www.generationgenius.com/)|Video explanations of science topics|---|
+|[**✅27- NRICH Maths**](https://nrich.maths.org/)|Cambridge math problems|---|
+|[**✅28- Math Playground**](https://www.mathplayground.com/)|Math games|---|
+|[**✅29- Bedtime Math**](https://bedtimemath.org/)|Daily math question|---|
+|[**✅30- SplashLearn**](https://www.splashlearn.com/)|Exercises by grade level|---|
+|[**✅31- Storyline Online**](https://storylineonline.net/)|Audiobooks of books|---|
+|[**✅32- StoryWeaver**](https://storyweaver.org.in/)|Multilingual children's book archive|---|
+|[**✅33- International Children's Digital Library**](https://www.childrenslibrary.org/)|World children's books library|---|
+|[**✅34- Free Kids Books**](https://freekidsbooks.org/)|Free children's books|---|
+|[**✅35- Oxford Owl**](https://www.oxfordowl.co.uk/)|Reading books by level|---|
+|[**✅36- Unite for Literacy**](https://uniteforliteracy.com/)|Audio illustrated books|---|
+|[**✅37- Reading Bear**](https://www.readingbear.org/)|Reading learning program|---|
+|[**✅38- Duolingo**](https://www.duolingo.com/)|Gamified language learning|---|
+|[**✅39- Gus on the Go**](https://www.gusonthego.com/)|Language teaching for young ages|---|
+|[**✅40- MusicTheory.net**](https://www.musictheory.net/)|Basics of music theory|---|
+|[**✅41- SketchR**](https://sketchrx.com/)|Drawing exercises|---|
+|[**✅42- Art for Kids Hub**](https://artforkidshub.com/)|Step-by-step drawing lessons|---|
+|[**✅43- MetKids**](https://www.metmuseum.org/art/online-features/metkids/)|Met Museum kids' section|---|
+|[**✅44- Tate Kids**](https://www.tate.org.uk/kids)|Tate's kids' art page|---|
+|[**✅45- ChessKid**](https://www.chesskid.com/)|Chess for children|---|
+|[**✅46- Lichess**](https://lichess.org/)|Free chess and exercises|---|
+|[**✅47- TypingClub**](https://www.typingclub.com/)|Ten-finger typing instruction|---|
+|[**✅48- LEGO Education**](https://education.lego.com/)|Free lesson plans|---|
+|[**✅49- Common Sense Media**](https://www.commonsensemedia.org/)|Age-appropriateness content checker|---|
 
 ## 👁️ Chapter3: - **Important Social medica Groups**
 | Title/link| Description | Code |
