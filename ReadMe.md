@@ -200,7 +200,8 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 ## 👁️ Chapter3: - **Important Social medica Groups**
 | Title/link| Description | Code |
 |---|---|---|
-|[**✅1- Research Direction**](https://www.youtube.com/playlist?list=PLO-6jspot8AIr1WjRD7rx5pMOZ1vyEUQ7)|It is Videos and github|---|
+|[**✅1-UnexpectED Education**](https://www.youtube.com/@UnexpectEDEducation)|It is Videos and github|---|
+|[**✅1-New General/Misc Free Educational Resources**](https://www.reddit.com/r/SupportiveLearning/comments/1y4kcqe/new_generalmisc_free_educational_resources/)|It is Videos and github|---|
 
 ## 👁️ Chapter4: - **Free Books**
 | Title/link| Description | Code |
