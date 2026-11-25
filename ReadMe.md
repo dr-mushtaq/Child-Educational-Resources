@@ -202,6 +202,8 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 |---|---|---|
 |[**✅1-UnexpectED Education**](https://www.youtube.com/@UnexpectEDEducation)|It is Videos and github|---|
 |[**✅1-New General/Misc Free Educational Resources**](https://www.reddit.com/r/SupportiveLearning/comments/1y4kcqe/new_generalmisc_free_educational_resources/)|It is Videos and github|---|
+|[**✅1-Educational Resources Mega-thread**](https://www.reddit.com/r/SupportiveLearning/comments/1xqtxg2/educational_resources_megathread/?share_id=DRx_4rgyX7Uho-adUou2n&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1)|It is Videos and github|---|
+
 
 ## 👁️ Chapter4: - **Free Books**
 | Title/link| Description | Code |
