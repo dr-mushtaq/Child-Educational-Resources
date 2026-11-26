@@ -144,6 +144,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 |[**✅ 8- Using proper manuscript language**](https://researcheracademy.elsevier.com/writing-research/writing-skills/using-proper-manuscript-language)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 |[**✅ 8- Using proper manuscript language**](https://researcheracademy.elsevier.com/writing-research/writing-skills/using-proper-manuscript-language)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 |[**✅ 8- Using proper manuscript language**](https://researcheracademy.elsevier.com/writing-research/writing-skills/using-proper-manuscript-language)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
+
 ## 👁️ Chapter2: - **Important Website**
 | Title/link| Description | Code |
 |---|---|---|
@@ -196,6 +197,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 |[**✅47- TypingClub**](https://www.typingclub.com/)|Ten-finger typing instruction|---|
 |[**✅48- LEGO Education**](https://education.lego.com/)|Free lesson plans|---|
 |[**✅49- Common Sense Media**](https://www.commonsensemedia.org/)|Age-appropriateness content checker|---|
+|[**✅50-ModuMath**](https://math.hjinlabs.com/#/)|  Students can photograph or type a math problem, read the difficult step, and practice on a similar question  |
 
 ## 👁️ Chapter3: - **Important Social medica Groups**
 | Title/link| Description | Code |
